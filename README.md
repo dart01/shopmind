@@ -72,6 +72,7 @@ satisfecha.
 
 ## Estructura del proyecto
 
+```text
 shopmind/
 ├── data/
 │   ├── raw/                  ← datos originales de Kaggle
@@ -85,6 +86,7 @@ shopmind/
 ├── app/
 │   └── app.py                ← demo interactiva en Streamlit
 └── README.md
+```
 
 ---
 
@@ -104,7 +106,7 @@ shopmind/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu_usuario/shopmind.git
+git clone https://huggingface.co/spaces/dart01/shopmind
 cd shopmind
 
 # Crear entorno virtual
