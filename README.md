@@ -143,5 +143,5 @@ robusto.
 
 ## Autor
 
-**Diego Riaño**  
-[LinkedIn](#) · [GitHub](#) · [Kaggle](#)
+**Diego Riaño - ingeniero mecatronico**  
+https://www.linkedin.com/in/diegoandres001/· https://github.com/dart01 · https://www.kaggle.com/diegoandresriao
