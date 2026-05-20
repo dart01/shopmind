@@ -19,8 +19,7 @@ contenido de los productos para hacer recomendaciones que realmente tienen senti
 
 ## Demo en vivo
 
-👉 [Probar ShopMind](#) ← próximamente en Hugging Face Spaces
-
+👉 [Probar ShopMind] (https://huggingface.co/spaces/dart01/shopmind) 
 ---
 
 ## Cómo funciona
